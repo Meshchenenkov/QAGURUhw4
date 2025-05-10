@@ -32,3 +32,10 @@ print(s2)
 s1.intersection(s2)
 
 print(list(set([1, 2, 3, 4, 5, 5, 5])))
+
+
+
+
+
+
+l = [random.randint(1, 100) for _ in range (10)]
